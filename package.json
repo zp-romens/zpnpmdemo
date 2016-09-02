@@ -1,0 +1,25 @@
+{
+  "name": "zpnpmdemo",
+  "version": "1.0.0",
+  "description": "zp's first npm package",
+  "main": "zp.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zp-romens/zpnpmdemo.git"
+  },
+  "keywords": [
+    "zpnpmdemo"
+  ],
+  "author": "zp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppzz/zpnpmdemo/issues"
+  },
+  "homepage": "https://github.com/ppzz/zpnpmdemo#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
